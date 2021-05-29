@@ -5,4 +5,4 @@ When you are on the page of dropout where the video is playing, Click on the boo
 
 [DropoutTvPiP][1]
 
-[1]: javascript:(()=>{const vid = document.getElementsByTagName("video")[0];if(vid){vid.disablePictureInPicture=false;vid.requestPictureInPicture();}else{window.open(document.getElementById("watch-embed").src,"_blank");}})()
+[1]: http://google.com
